@@ -1,0 +1,32 @@
+body{
+    background-image: url('https://i0.wp.com/multarte.com.br/wp-content/uploads/2019/01/fundo-3d-banner2.png?fit=3840%2C2160&ssl=1');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+img{
+    width: 200px;
+
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+.container{
+    text-align: center;
+    color: white;
+}
+/* Estilo para o botão */
+#voltarBtn {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+/* Efeito de hover para o botão */
+#voltarBtn:hover {
+    background-color: #0056b3;
+}
+
+
